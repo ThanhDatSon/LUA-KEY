@@ -1,4 +1,4 @@
-ABCD|VIP|1
+ABC|VIP|0
 DEF|Premium|1
 XYZ|Test|0
 GHI|30-DAY|1
